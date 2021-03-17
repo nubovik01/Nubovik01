@@ -12,5 +12,5 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=Nubovik01&show_icons=true&theme=dark)
 <br />
 <a href="https://wakatime.com/@Nubovik01">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nubovik01&show_icons=true&hide_border=false&theme=dark&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nubovik01&show_icons=true&hide_border=false&theme=dark">
 </a>
