@@ -6,4 +6,5 @@
 
 ---
 ### **Разная статистика**
-![stats](https://github-readme-stats.vercel.app/api?username=Nubovik01&count_private=true&show_icons=true&theme=github_dark)
+![stats](https://github-readme-stats.vercel.app/api?username=Nubovik01&count_private=true&show_icons=true&theme=github_dark)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nubovik01&layout=compact&theme=github_dark)
