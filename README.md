@@ -1,5 +1,6 @@
 ### Привет! Это — мой профиль на GitHub.
 
+---
 <a href="https://discord.gg/EJc8UC7yhZ">
   <img src="http://invidget.switchblade.xyz/EJc8UC7yhZ"/>
 </a>
