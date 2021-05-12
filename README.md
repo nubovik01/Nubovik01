@@ -4,5 +4,5 @@
 
 ---
 <a href="https://discord.gg/EJc8UC7yhZ">
-  <img src="http://invidget.switchblade.xyz/EJc8UC7yhZ"/ witdh="64px" height="64px">
+  <img src="http://invidget.switchblade.xyz/EJc8UC7yhZ"/ witdh="128px" height="128px">
 </a>
