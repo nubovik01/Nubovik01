@@ -5,7 +5,9 @@
 </div>
 
 <div>
-  <a href="https://github.com/Nubovik01"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Nubovik01?style=for-the-badge"></a>
+  <span>А ещё ты можешь подписаться на меня</span>
+  <br>
+  <a href="https://github.com/Nubovik01"><img alt="GitHub followers" src="https://img.shields.io/github/followers/nubovik01?style=social"></a>
 </div>
 
 ---
