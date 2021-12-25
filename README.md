@@ -5,7 +5,6 @@
 </div>
 
 <div>
-  <img src="https://discord.c99.nl/widget/theme-3/454314234830913557.png">
   <a href="https://discord.gg/EJc8UC7yhZ">
     <img src="https://invidget.switchblade.xyz/EJc8UC7yhZ" height="80px">
   </a>
