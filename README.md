@@ -37,7 +37,7 @@
   <img height="180em" width="392em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nubovik01&langs_count=6&layout=compact&theme=github_dark"/>
 </div>
 
-### трофеи профиля (всё печально, знаю)
+### трофеи профиля (всё печально, знаю))
 <img src="https://github-profile-trophy.vercel.app/?username=nubovik01&column=3&theme=onedark"/>
 
 ### статистика wakatime
