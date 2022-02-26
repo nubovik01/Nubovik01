@@ -25,6 +25,10 @@
   </a>
 </div>
 
+### тут кек
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### моя активность на github
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=nubovik01&theme=github)
 
