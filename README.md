@@ -6,12 +6,12 @@
 - Люблю JavaScript <img src="https://nubovik.ml/icons/JavaScript.png" height="16px"> и HTML <img src="https://nubovik.ml/icons/html5.png" height="16px">
 - Играю только в Minecraft <img src="https://nubovik.ml/icons/Minecraft.gif" height="16px">
 - У меня есть свой сайт
-- Использую Visual Studio Code <img src="https://nubovik.ml/icons/VSC.png" height="16px">
-- Люблю колу, пиццу и снеки
 - Пользуюсь Яндекс Браузером <img src="https://nubovik.ml/icons/Yandex_Browser.png" height="16px">
 - У меня есть свой бот для Discord <img src="https://flameout.gq/files/images/icon.png" height="16px">
+- Люблю колу, пиццу и снеки
+- Использую Visual Studio Code <img src="https://nubovik.ml/icons/VSC.png" height="16px">
 - Слушаю музыку только в Spotify <img src="https://cdn.discordapp.com/attachments/939337526345338911/944754470007488573/Spotify-white.png" height="16px">
-- Пишу ботов для Discord <img src="https://nubovik.ml/icons/Discord.png" height="16px">
+- Пишу ботов для Discord <img src="https://nubovik.ml/icons/Discord-white.png" height="16px">
 - Я дед инсайд
 
 ### связаться со мной
@@ -20,7 +20,7 @@
 | <img src="https://nubovik.ml/icons/Telegram.png" height="16px"> | Telegram | <a href="https://t.me/nubovik01">t.me/nubovik01</a> |
 | <img src="https://nubovik.ml/icons/Gmail.png" height="16px"> | Gmail | <a href="mailto:nubovik01@gmail.com">nubovik01@gmail.com</a> |
 | <img src="https://nubovik.ml/files/images/icon.png" height="16px"> | Website | <a href="https://nubovik.ml">nubovik.ml</a> |
-| <img src="https://nubovik.ml/icons/Discord.png" height="16px"> | Discord | <a href="https://discord.gg/EJc8UC7yhZ">discord.gg/EJc8UC7yhZ</a> |
+| <img src="https://nubovik.ml/icons/Discord-white.png" height="16px"> | Discord | <a href="https://discord.gg/EJc8UC7yhZ">discord.gg/EJc8UC7yhZ</a> |
 |  | Qiwi | <a href="https://qiwi.com/n/nubovik">qiwi.com/n/nubovik</a> |
 
 <div>
