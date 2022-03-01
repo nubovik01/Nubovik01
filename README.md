@@ -3,7 +3,7 @@
 ### немного информации обо мне
 - Обитаю в Санкт-Петербурге который находится в России 🇷🇺
 - Пишу только для себя, на заказ ничего не делаю
-- Люблю JavaScript <img src="https://nubovik.ml/icons/JavaScript.png" height="16px"> и HTML <img src="https://nubovik.ml/icons/html52.png" height="16px">
+- Люблю JavaScript <img src="https://nubovik.ml/icons/JavaScript.png" height="16px"> и HTML <img src="https://nubovik.ml/icons/html5.png" height="16px">
 - Играю только в Minecraft <img src="https://nubovik.ml/icons/Minecraft.gif" height="16px">
 - У меня есть свой сайт
 - Использую Visual Studio Code <img src="https://nubovik.ml/icons/VSC.png" height="16px">
@@ -11,7 +11,7 @@
 - Пользуюсь Яндекс Браузером <img src="https://nubovik.ml/icons/Yandex_Browser.png" height="16px">
 - У меня есть свой бот для Discord <img src="https://flameout.gq/files/images/icon.png" height="16px">
 - Слушаю музыку только в Spotify <img src="https://cdn.discordapp.com/attachments/939337526345338911/944754470007488573/Spotify-white.png" height="16px">
-- Пишу ботов для Discord <img src="https://nubovik.ml/icons/Discord-white.png" height="16px">
+- Пишу ботов для Discord <img src="https://nubovik.ml/icons/Discord.png" height="16px">
 - Я дед инсайд
 
 ### связаться со мной
