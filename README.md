@@ -7,7 +7,7 @@
 - Играю только в Minecraft <img src="https://nubovik.ml/icons/Minecraft.gif" height="16px">
 - У меня есть свой сайт
 - Пользуюсь Яндекс Браузером <img src="https://nubovik.ml/icons/Yandex_Browser.png" height="16px">
-- У меня есть свой бот для Discord <img src="https://flameout.gq/files/images/icon.png" height="16px">
+- У меня есть свой бот для Discord <img src="https://nubovik.ml/files/images/logos/flameout.png" height="16px">
 - Люблю колу, пиццу и снеки
 - Использую Visual Studio Code <img src="https://nubovik.ml/icons/VSC.png" height="16px">
 - Слушаю музыку только в Spotify <img src="https://cdn.discordapp.com/attachments/939337526345338911/944754470007488573/Spotify-white.png" height="16px">
