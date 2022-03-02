@@ -20,9 +20,10 @@
 | <img src="https://nubovik.ml/icons/Telegram.png" height="16px"> | Telegram | <a href="https://t.me/nubovik01">t.me/nubovik01</a> |
 | <img src="https://nubovik.ml/icons/Gmail.png" height="16px"> | Gmail | <a href="mailto:nubovik01@gmail.com">nubovik01@gmail.com</a> |
 | <img src="https://nubovik.ml/files/images/icon.png" height="16px"> | Website | <a href="https://nubovik.ml">nubovik.ml</a> |
-| <img src="https://nubovik.ml/icons/Discord-white.png" height="16px"> | Discord | <a href="https://discord.gg/EJc8UC7yhZ">discord.gg/EJc8UC7yhZ</a> |
 |  | Qiwi | <a href="https://qiwi.com/n/nubovik">qiwi.com/n/nubovik</a> |
 
+
+### discord-сервер
 <div>
   <a href="https://discord.gg/EJc8UC7yhZ">
     <img src="https://invidget.switchblade.xyz/EJc8UC7yhZ">
