@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/939337526345338911/944632921946464266/dsa.png">
+<img src="https://cdn.discordapp.com/attachments/754717585534353519/953779377756323900/Nikita.png">
 
 ### немного информации обо мне
 - Обитаю в Санкт-Петербурге который находится в России 🇷🇺
@@ -7,6 +7,7 @@
 - Играю только в Minecraft <img src="https://nubovik.ml/icons/Minecraft.gif" height="16px">
 - У меня есть свой сайт
 - Пользуюсь Яндекс Браузером <img src="https://nubovik.ml/icons/Yandex_Browser.png" height="16px">
+- Люблю кушать капусту
 - У меня есть свой бот для Discord <img src="https://nubovik.ml/files/images/logos/flameout.png" height="16px">
 - Люблю колу, пиццу и снеки
 - Использую Visual Studio Code <img src="https://nubovik.ml/icons/VSC.png" height="16px">
