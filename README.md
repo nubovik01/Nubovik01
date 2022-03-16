@@ -18,7 +18,7 @@
 ### связаться со мной
 |                |     Сервис     |     Ссылка     |
 |:--------------:|----------------|----------------|
-| <img src="https://nubovik.ml/icons/Telegram.png" height="16px"> | Telegram | <a href="https://t.me/nubovik01">t.me/nubovik01</a> |
+| <img src="https://nubovik.ml/icons/Telegram.png" height="16px"> | Telegram | <a href="https://t.me/nubovikhub">Nubovik Hub</a> |
 | <img src="https://nubovik.ml/icons/Gmail.png" height="16px"> | Gmail | <a href="mailto:nubovik01@gmail.com">nubovik01@gmail.com</a> |
 | <img src="https://nubovik.ml/files/images/icon.png" height="16px"> | Website | <a href="https://nubovik.ml">nubovik.ml</a> |
 |  | Qiwi | <a href="https://qiwi.com/n/nubovik">qiwi.com/n/nubovik</a> |
