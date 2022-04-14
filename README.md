@@ -2,7 +2,7 @@
 
 ### немного информации обо мне
 - Обитаю в Санкт-Петербурге который находится в России 🇷🇺
-- Пишу только для себя, на заказ ничего не делаю
+- Пишу говнокод только для себя
 - Люблю JavaScript <img src="https://nubovik.ml/icons/JavaScript.png" height="16px"> и HTML <img src="https://nubovik.ml/icons/html5.png" height="16px">
 - Играю только в Minecraft <img src="https://nubovik.ml/icons/Minecraft.gif" height="16px">
 - У меня есть свой сайт
@@ -16,12 +16,12 @@
 - Я дед инсайд
 
 ### связаться со мной
-|                |     Сервис     |     Ссылка     |
+|       Z        |     Сервис     |     Ссылка     |
 |:--------------:|----------------|----------------|
 | <img src="https://nubovik.ml/icons/Telegram.png" height="16px"> | Telegram | <a href="https://t.me/nubovikhub">t.me/nubovikhub</a> |
 | <img src="https://nubovik.ml/icons/Gmail.png" height="16px"> | Gmail | <a href="mailto:nubovik01@gmail.com">nubovik01@gmail.com</a> |
 | <img src="https://nubovik.ml/files/images/icon.png" height="16px"> | Website | <a href="https://nubovik.ml">nubovik.ml</a> |
-|  | Qiwi | <a href="https://qiwi.com/n/nubovik">qiwi.com/n/nubovik</a> |
+| <img src="https://www.google.com/s2/favicons?domain=https://qiwi.com/" height="16px"> | Qiwi | <a href="https://qiwi.com/n/nubovik">qiwi.com/n/nubovik</a> |
 
 
 ### discord-сервер
