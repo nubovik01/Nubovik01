@@ -13,9 +13,10 @@
 - Люблю кушать капусту
 - У меня есть свой бот для Discord <img src="https://github.com/FlameOut-Discord/flameout-design/raw/main/flame_64x64.png" height="16px">
 - Люблю колу, пиццу и снеки
-- Дома есть сахар в виде песка и кубиков
-- Использую Visual Studio Code <img src="https://cdn.discordapp.com/attachments/640198921347399700/964636296360378428/VSC.png" height="16px">
 - Слушаю музыку только в Spotify <img src="https://cdn.discordapp.com/attachments/640198921347399700/964636295731216416/Spotify-green.png" height="16px">
+- Дома есть сахар в виде песка и кубиков
+- Я учусь в школе (..cry)
+- Использую Visual Studio Code <img src="https://cdn.discordapp.com/attachments/640198921347399700/964636296360378428/VSC.png" height="16px">
 - Пишу ботов для Discord <img src="https://cdn.discordapp.com/attachments/640198921347399700/964636297278947368/Discord-white.png" height="16px">
 - Я дед инсайд
 
