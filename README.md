@@ -1,11 +1,13 @@
 <img src="https://cdn.discordapp.com/attachments/754717585534353519/953779377756323900/Nikita.png">
-<a href="https://discord.gg/EJc8UC7yhZ"><img src="https://img.shields.io/discord/457858774099689479?color=5865F2&logo=discord&logoColor=white" alt="server"/></a>
-<a href="https://top.gg/bot/747431086816100402"><img src="https://top.gg/api/widget/servers/747431086816100402.svg"></a>
-<a href="https://top.gg/bot/747431086816100402/vote"><img src="https://top.gg/api/widget/upvotes/747431086816100402.svg" title="Проголосовать и получить бонус">
+<a href="https://discord.gg/EJc8UC7yhZ"><img src="https://img.shields.io/discord/457858774099689479?color=5865F2&logo=discord&logoColor=white&label=%D1%87%D0%B0%D1%82" alt="Discord-сервер"/></a>
+<a href="https://reddit.com/user/nubovik01"><img src="https://img.shields.io/reddit/user-karma/combined/nubovik01?label=%D0%BA%D0%B0%D1%80%D0%BC%D0%B0%20u%2Fnubovik01" alt="Карма пользователя Reddit @nubovik01"></a>
+<a href=""><img src="https://img.shields.io/badge/OC-Windows%208.1-brightgreen" src="Текущая ОС на компьютере"></a>
+<a href="https://github.com/nubovik01"><img src="https://img.shields.io/github/followers/nubovik01?label=%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D1%87%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%BD%D0%B0%20github" alt="Количество подписчиков на GitHub"></a>
 
 ### немного информации обо мне
 - Обитаю в Санкт-Петербурге который находится в России 🇷🇺
 - Пишу говнокод только для себя
+- Даже за деньги ничего не сделаю
 - Люблю JavaScript <img src="https://cdn.discordapp.com/attachments/640198921347399700/964636295211151450/JavaScript.png" height="16px"> и HTML <img src="https://cdn.discordapp.com/attachments/640198921347399700/964636297673179186/html5.png" height="16px">
 - Играю только в Minecraft <img src="https://cdn.discordapp.com/attachments/640198921347399700/964636295496368240/Minecraft.gif" height="16px">
 - У меня есть свой сайт 
@@ -20,14 +22,16 @@
 - Пишу ботов для Discord <img src="https://cdn.discordapp.com/attachments/640198921347399700/964636297278947368/Discord-white.png" height="16px">
 - Я дед инсайд
 
+### последний раз я слушал эту песню
+[![Spotify](https://novatorem-tau-five.vercel.app/api/spotify)](https://open.spotify.com/user/tx9f1ojp5ghsdkbsrn085sn2k)
+
 ### связаться со мной
 |                |     Сервис     |     Ссылка     |
 |:--------------:|----------------|----------------|
 | <img src="https://cdn.discordapp.com/attachments/640198921347399700/964636296079351918/Telegram.png" height="16px"> | Telegram | <a href="https://t.me/nubovikhub">t.me/nubovikhub</a> |
 | <img src="https://cdn.discordapp.com/attachments/640198921347399700/964636297480265778/Gmail.png" height="16px"> | Gmail | <a href="mailto:nubovik01@gmail.com">nubovik01@gmail.com</a> |
 | <img src="https://cdn.discordapp.com/attachments/640198921347399700/964637559311437895/icon.png" height="16px"> | Website | <a href="https://nbvk.ml">nbvk.ml</a> (work again) |
-| <img src="https://www.google.com/s2/favicons?domain=https://qiwi.com/" height="16px"> | Qiwi | <a href="https://qiwi.com/n/nubovik">qiwi.com/n/nubovik</a> |
-
+| <img src="https://google.com/s2/favicons?domain=https://qiwi.com/" height="16px"> | Qiwi | <a href="https://qiwi.com/n/nubovik">qiwi.com/n/nubovik</a> |
 
 ### discord-сервер
 <div>
