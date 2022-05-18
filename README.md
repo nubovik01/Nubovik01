@@ -38,7 +38,7 @@
 | <img src="https://cdn.discordapp.com/attachments/640198921347399700/964637559311437895/icon.png" height="16px"> | Website | <a href="https://nbvk.ml">nbvk.ml</a> (work again) |
 | <img src="https://google.com/s2/favicons?domain=https://qiwi.com/" height="16px"> | Qiwi | <a href="https://qiwi.com/n/nubovik">qiwi.com/n/nubovik</a> |
 
-### последний раз я слушал эту песню
+### недавно я слушал эту песню
 [![Spotify](https://novatorem-tau-five.vercel.app/api/spotify)](https://open.spotify.com/user/tx9f1ojp5ghsdkbsrn085sn2k)
 
 ### discord-сервер
