@@ -5,6 +5,7 @@
 <br>
 <a href="https://reddit.com/user/nubovik01"><img src="https://img.shields.io/reddit/user-karma/combined/nubovik01?label=%D0%BA%D0%B0%D1%80%D0%BC%D0%B0%20u%2Fnubovik01" alt="Карма пользователя Reddit @nubovik01"></a>
 <a href=""><img src="https://img.shields.io/badge/OC-Windows%208.1-brightgreen" src="Текущая ОС на компьютере"></a>
+<a href="https://nbvk.ml/api"><img src="https://img.shields.io/badge/API-creepys-yellow" src="Creepys (creepy stories) API"></a>
 
 ### немного информации обо мне
 - Заспавился в Санкт-Петербурге, который находится в России 🇷🇺
