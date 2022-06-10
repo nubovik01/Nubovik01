@@ -25,7 +25,7 @@
 ### связаться со мной
 |                |     Сервис     |     Ссылка     |
 |:--------------:|----------------|----------------|
-| <img src="https://cdn.discordapp.com/attachments/640198921347399700/964636296079351918/Telegram.png" height="16px"> | Telegram | <a href="https://t.me/nubovikhub">t.me/nubovikhub</a> |
+| <img src="https://cdn.discordapp.com/attachments/640198921347399700/964636296079351918/Telegram.png" height="16px"> | Telegram | <a href="https://t.me/nubovik01">t.me/nubovik01</a> |
 | <img src="https://cdn.discordapp.com/attachments/640198921347399700/964636297480265778/Gmail.png" height="16px"> | Gmail | <a href="mailto:nubovik01@gmail.com">nubovik01@gmail.com</a> |
 | <img src="https://cdn.discordapp.com/attachments/640198921347399700/964637559311437895/icon.png" height="16px"> | Website | <a href="https://nbvk.ml">nbvk.ml</a> (work again) |
 | <img src="https://google.com/s2/favicons?domain=https://qiwi.com/" height="16px"> | Qiwi | <a href="https://qiwi.com/n/nubovik">qiwi.com/n/nubovik</a> |
