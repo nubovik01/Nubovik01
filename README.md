@@ -4,7 +4,7 @@
 <a href="https://github.com/nubovik01"><img src="https://img.shields.io/github/followers/nubovik01?label=%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D1%87%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%BD%D0%B0%20github" alt="Количество подписчиков на GitHub"></a>
 <br>
 <a href="https://reddit.com/user/nubovik01"><img src="https://img.shields.io/reddit/user-karma/combined/nubovik01?label=%D0%BA%D0%B0%D1%80%D0%BC%D0%B0%20u%2Fnubovik01" alt="Карма пользователя Reddit @nubovik01"></a>
-<a href=""><img src="https://img.shields.io/badge/OC-Windows%208.1-brightgreen" src="Текущая ОС на компьютере"></a>
+<a href="https://ru.wikipedia.org/wiki/Windows_8.1"><img src="https://img.shields.io/badge/OC-Windows%208.1-brightgreen" src="Текущая ОС на компьютере"></a>
 <a href="https://nbvk.ml/api"><img src="https://img.shields.io/badge/API-creepys-yellow" src="Creepys (creepy stories) API"></a>
 
 ### немного информации обо мне
