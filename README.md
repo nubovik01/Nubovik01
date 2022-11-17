@@ -6,6 +6,8 @@
 <a href="https://reddit.com/user/nubovik01"><img src="https://img.shields.io/reddit/user-karma/combined/nubovik01?label=%D0%BA%D0%B0%D1%80%D0%BC%D0%B0%20u%2Fnubovik01" alt="Карма пользователя Reddit @nubovik01"></a>
 <a href="https://ru.wikipedia.org/wiki/Windows_8.1"><img src="https://img.shields.io/badge/OC-Windows%208.1-brightgreen" src="Текущая ОС на компьютере"></a>
 
+— near enough <img src="https://nbvk.ml/files/images/icon.png" src="Текущая ОС на компьютере" height="16px">
+
 ### немного информации обо мне
 - Заспавился в Санкт-Петербурге, который находится в России 🇷🇺
 - Пишу говнокод только для себя
