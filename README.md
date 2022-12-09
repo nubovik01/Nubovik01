@@ -1,15 +1,14 @@
 <img src="https://cdn.discordapp.com/attachments/754717585534353519/953779377756323900/Nikita.png">
 <a href="https://discord.gg/EJc8UC7yhZ"><img src="https://img.shields.io/discord/457858774099689479?color=5865F2&logo=discord&logoColor=white&label=%D1%87%D0%B0%D1%82" alt="Discord-сервер"/></a>
-<a href=""><img src="https://komarev.com/ghpvc/?username=Nubovik01&label=Просмотры+профиля" alt="Количество посещений этого GitHub профиля"></img></a>
+<a href=""><img src="https://komarev.com/ghpvc/?username=Nubovik01&label=просмотры+профиля" alt="Количество посещений этого GitHub профиля"></img></a>
 <a href="https://github.com/nubovik01"><img src="https://img.shields.io/github/followers/nubovik01?label=%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D1%87%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%BD%D0%B0%20github" alt="Количество подписчиков на GitHub"></a>
 <br>
 <a href="https://reddit.com/user/nubovik01"><img src="https://img.shields.io/reddit/user-karma/combined/nubovik01?label=%D0%BA%D0%B0%D1%80%D0%BC%D0%B0%20u%2Fnubovik01" alt="Карма пользователя Reddit @nubovik01"></a>
-<a href="https://ru.wikipedia.org/wiki/Windows_8.1"><img src="https://img.shields.io/badge/OC-Windows%208.1-brightgreen" src="Текущая ОС на компьютере"></a>
-
-— near enough <img src="https://nbvk.ml/files/images/icon.png" src="Текущая ОС на компьютере" height="16px">
+<a href="https://ru.wikipedia.org/wiki/Windows_8.1"><img src="https://img.shields.io/badge/OC-Windows%208.1-brightgreen" alt="Текущая ОС на компьютере"></a>
+<a href="https://ru.wikipedia.org/wiki/IPhone_SE_(3-го_поколения)"><img src="https://img.shields.io/static/v1?label=iPhone&message=SE%202022&color=black&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEIAAABCCAYAAADjVADoAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAYdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjAuOBs0TtgAAAGBSURBVHhe7dYxSgNBGIbhXEBQsbSy8hp6C8GT2NnFE3kQKwsPIfbqH0xgGd4lG/m/nW929oWHCIb9ZpImm0Y7379210/hNXRV+QEcPIQuossPdRFdvNRFdPHS4qNLk0VHFx6z6OjCpbuw6OjSZPHRpUtdRBcf6ia6/FA30eV3umv9EPY971+PdRYe//70i77NKcai9071HqpEhznVIfrff80aHcCJPBp1JmkbaMxZejTSgvRoxF16NOIuvbdAQ84k0ZAzWTTmShoNupJFY66ugywadCWNBl1Jo0FH90HWZaBRR9Jo0JW0z0Cjjq6CrJdAo66k0aAraTToShoNOpNFY85k0ZgzaTToThINudv9BkqPhlqRGg20JC16eEtuQlo00JqUvgM9vCVp0cNbkhoNuPsK6dGQO1k05kwWjbmSdhto1NEs0bCTWaMDuJg1OkBt1aLD1HIRqkUHqqV6dKi52USHm6KM3nOMXU+BDjp0ah+BnnNgneqwimeura2Ntdn8AmaD+oSc3OUMAAAAAElFTkSuQmCC" alt="Текущий iPhone"></a>
 
 ### немного информации обо мне
-- Заспавился в Санкт-Петербурге, который находится в России 🇷🇺
+- Заспавился в Санкт-Петербурге (Россия 🇷🇺)
 - Пишу говнокод только для себя
 - Часто играю в Minecraft <img src="https://cdn.discordapp.com/attachments/640198921347399700/964636295496368240/Minecraft.gif" height="16px">
 - Пользуюсь Яндекс Браузером <img src="https://cdn.discordapp.com/attachments/640198921347399700/964636296725291058/Yandex_Browser.png" height="16px">
@@ -19,9 +18,6 @@
 - Дома есть сахар в виде песка и кубиков
 - Учусь в школе (памагите...)
 - Я дед инсайд
-
-### использую/использовал
-[![My Skills](https://skillicons.dev/icons?i=cloudflare,css,github,discord,php,bots,figma,heroku,vscode,html,grafana,js,powershell,nginx,stackoverflow,instagram,postgres,twitter,nodejs&perline=5&theme=dark)](https://skillicons.dev)
 
 ### связаться со мной
 |                |     Сервис     |     Ссылка     |
