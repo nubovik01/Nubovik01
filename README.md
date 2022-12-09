@@ -35,7 +35,6 @@
 </div>
 
 ### недавно я слушал эту песню
-<span>Да, даже во время санкций я всё равно слушаю Spotify :3</span>
 <div>
   <a href="https://open.spotify.com/user/tx9f1ojp5ghsdkbsrn085sn2k">
     <img src="https://novatorem-tau-five.vercel.app/api/spotify" width="430" height="110">
