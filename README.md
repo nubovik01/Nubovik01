@@ -8,7 +8,6 @@
 <a href="https://ru.wikipedia.org/wiki/IPhone_SE_(3-го_поколения)"><img src="https://img.shields.io/static/v1?label=iPhone&message=SE%202022&color=black&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEIAAABCCAYAAADjVADoAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAYdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjAuOBs0TtgAAAGBSURBVHhe7dYxSgNBGIbhXEBQsbSy8hp6C8GT2NnFE3kQKwsPIfbqH0xgGd4lG/m/nW929oWHCIb9ZpImm0Y7379210/hNXRV+QEcPIQuossPdRFdvNRFdPHS4qNLk0VHFx6z6OjCpbuw6OjSZPHRpUtdRBcf6ia6/FA30eV3umv9EPY971+PdRYe//70i77NKcai9071HqpEhznVIfrff80aHcCJPBp1JmkbaMxZejTSgvRoxF16NOIuvbdAQ84k0ZAzWTTmShoNupJFY66ugywadCWNBl1Jo0FH90HWZaBRR9Jo0JW0z0Cjjq6CrJdAo66k0aAraTToShoNOpNFY85k0ZgzaTToThINudv9BkqPhlqRGg20JC16eEtuQlo00JqUvgM9vCVp0cNbkhoNuPsK6dGQO1k05kwWjbmSdhto1NEs0bCTWaMDuJg1OkBt1aLD1HIRqkUHqqV6dKi52USHm6KM3nOMXU+BDjp0ah+BnnNgneqwimeura2Ntdn8AmaD+oSc3OUMAAAAAElFTkSuQmCC" alt="Текущий iPhone"></a>
 
 ### немного информации обо мне
-- Заспавился в Санкт-Петербурге (Россия 🇷🇺)
 - Пишу говнокод только для себя
 - Часто играю в Minecraft <img src="https://cdn.discordapp.com/attachments/640198921347399700/964636295496368240/Minecraft.gif" height="16px">
 - Пользуюсь Яндекс Браузером <img src="https://cdn.discordapp.com/attachments/640198921347399700/964636296725291058/Yandex_Browser.png" height="16px">
