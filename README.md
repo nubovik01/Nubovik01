@@ -2,7 +2,7 @@
 <a href="https://wakatime.com/@10f17f85-6757-46ea-9ddb-7d70cabcfd45"><img src="https://wakatime.com/badge/user/10f17f85-6757-46ea-9ddb-7d70cabcfd45.svg" alt="Total time coded since Apr 20 2021" /></a>
 <a href="https://github.com/nubovik01"><img src="https://komarev.com/ghpvc/?username=Nubovik01&label=просмотры+профиля" alt="Количество посещений этого GitHub профиля"></img></a>
 <br>
-<a href="https://reddit.com/user/nubovik01"><img src="https://img.shields.io/reddit/user-karma/combined/nubovik01?color=5865F2&label=%D0%BA%D0%B0%D1%80%D0%BC%D0%B0%20u%2Fnubovik01" alt="Карма пользователя Reddit @nubovik01"></a>
+<a href="https://reddit.com/user/nubovik01"><img src="https://img.shields.io/reddit/user-karma/combined/nubovik01?color=5865F2&label=%D0%BA%D0%B0%D1%80%D0%BC%D0%B0%20u%2Fnubovik01" alt="Карма пользователя Reddit u/nubovik01"></a>
 
 ### немного информации обо мне
 - Пишу говнокод только для себя
