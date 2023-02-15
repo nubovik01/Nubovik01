@@ -6,14 +6,10 @@
 
 ### немного информации обо мне
 - Пишу говнокод только для себя
-- Часто играю в Minecraft <img src="https://cdn.discordapp.com/attachments/640198921347399700/964636295496368240/Minecraft.gif" height="16px">
-- Пользуюсь Яндекс Браузером <img src="https://cdn.discordapp.com/attachments/640198921347399700/964636296725291058/Yandex_Browser.png" height="16px">
 - У меня есть свой бот в Discord <img src="https://github.com/FlameOut-Discord/flameout-design/raw/main/flame_64x64.png" height="16px">
-- Люблю пиццу, колу, фанту и снеки
-- Слушаю музыку только в Spotify <img src="https://cdn.discordapp.com/attachments/640198921347399700/964636295731216416/Spotify-green.png" height="16px">
-- Дома есть сахар в виде песка и кубиков
-- Учусь в школе (памагите...)
-- Я дед инсайд
+- Почти не использую российские приложения
+- Слушаю музыку только в Spotify и VK
+- Я тру гуль дед инсайд
 
 ### связаться со мной
 |                |     Сервис     |     Ссылка     |
@@ -21,6 +17,7 @@
 | <img src="https://cdn.discordapp.com/attachments/640198921347399700/964636296079351918/Telegram.png" height="16px"> | Telegram | <a href="https://t.me/nubovik01">t.me/nubovik01</a> |
 | <img src="https://cdn.discordapp.com/attachments/640198921347399700/964636297480265778/Gmail.png" height="16px"> | Gmail | <a href="mailto:nubovik01@gmail.com">nubovik01@gmail.com</a> |
 | <img src="https://cdn.discordapp.com/attachments/640198921347399700/964637559311437895/icon.png" height="16px"> | Website | <a href="https://nbvk.ml">nbvk.ml</a> |
+| <img src="https://cdn.discordapp.com/attachments/640198921347399700/964636296079351918/Telegram.png" height="16px"> | Больше меня | <a href="https://t.me/nubovikhub">t.me/nubovikhub</a> |
 
 ### discord-сервер
 <div>
