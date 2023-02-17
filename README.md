@@ -19,7 +19,10 @@
 | <img src="https://cdn.discordapp.com/attachments/640198921347399700/964637559311437895/icon.png" height="16px"> | Website | <a href="https://nbvk.ml">nbvk.ml</a> |
 | <img src="https://cdn.discordapp.com/attachments/640198921347399700/964636296079351918/Telegram.png" height="16px"> | Больше меня | <a href="https://t.me/nubovikhub">t.me/nubovikhub</a> |
 
-### discord-сервер
+### discord
+<div>
+  <img src="https://lanyard.cnrad.dev/api/454314234830913557?theme=dark&bg=36393f">
+</div>
 <div>
   <a href="https://discord.gg/EJc8UC7yhZ">
     <img src="https://invidget.switchblade.xyz/EJc8UC7yhZ">
