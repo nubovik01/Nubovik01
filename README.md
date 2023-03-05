@@ -41,7 +41,7 @@
 
 <div>
   <img height="180em" width="378em" src="https://github-readme-stats.vercel.app/api?username=nubovik01&count_private=true&show_icons=true&theme=github_dark"/>
-  <img height="180em" width="448em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nubovik01&langs_count=6&layout=compact&theme=github_dark"/>
+  <img height="180em" width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nubovik01&langs_count=6&layout=compact&theme=github_dark"/>
 </div>
 
 ### трофеи профиля
