@@ -7,8 +7,7 @@
 ### немного информации обо мне
 - Пишу говнокод только для себя
 - У меня есть свой бот в Discord <img src="https://github.com/FlameOut-Discord/flameout-design/raw/main/flame_64x64.png" height="16px">
-- Почти не использую российские приложения
-- Слушаю музыку только в Spotify и VK
+- Слушаю музыку только в YouTube, Telegram и VK
 - Я тру гуль дед инсайд
 
 ### связаться со мной
