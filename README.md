@@ -5,7 +5,6 @@
 <a href="https://reddit.com/user/nubovik01"><img src="https://img.shields.io/reddit/user-karma/combined/nubovik01?color=5865F2&label=%D0%BA%D0%B0%D1%80%D0%BC%D0%B0%20u%2Fnubovik01" alt="Карма пользователя Reddit u/nubovik01"></a>
 
 ### немного информации обо мне
-- Пишу говнокод только для себя
 - У меня есть свой бот в Discord <img src="https://github.com/FlameOut-Discord/flameout-design/raw/main/flame_64x64.png" height="16px">
 - Слушаю музыку только в YouTube, Telegram и VK
 - Я тру гуль дед инсайд
