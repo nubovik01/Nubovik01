@@ -6,14 +6,6 @@
 <br>
 <a href="https://www.youtube.com/watch?v=Azc7A9iKPYk"><img src="https://user-images.githubusercontent.com/49571184/176561273-1e36df3c-8add-455f-b827-5f24e1fa0205.png" alt="VERY HALAL"></a>
 
-### немного информации обо мне
-- Я каждый день не сплю до 5 утра
-- У меня есть свой бот в Discord <img src="https://github.com/FlameOut-Discord/flameout-design/raw/main/flame_64x64.png" height="16px">
-- Слушаю музыку только в VK
-- Живу по 12-часовому формату времени
-- Я тру гуль дед инсайд
-- считаю себя милым чёрным котиком
-
 ### связаться со мной
 |                |     Сервис     |     Ссылка     |
 |:--------------:|----------------|----------------|
