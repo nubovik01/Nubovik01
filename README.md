@@ -6,11 +6,13 @@
 <br>
 <a href="https://www.youtube.com/watch?v=Azc7A9iKPYk"><img src="https://user-images.githubusercontent.com/49571184/176561273-1e36df3c-8add-455f-b827-5f24e1fa0205.png" alt="VERY HALAL"></a>
 
-### связаться со мной
-|                |     Сервис     |     Ссылка     |
-|:--------------:|----------------|----------------|
-| <img src="https://cdn.discordapp.com/attachments/640198921347399700/964636296079351918/Telegram.png" height="16px"> | Telegram | <a href="https://t.me/nubovik01">t.me/nubovik01</a> |
-| <img src="https://cdn.discordapp.com/attachments/640198921347399700/964637559311437895/icon.png" height="16px"> | Website | <a href="https://qwkrtezzz.ru">qwkrtezzz.ru</a> |
+### ссылки
+
+<a href="https://t.me/qwkrtezzz"><img src="https://img.shields.io/badge/-@qwkrtezzz-000?&logo=Telegram" alt="t.me/qwkrtezzz"></a>
+<a href="https://github.com/nubovik01"><img src="https://img.shields.io/badge/-@nubovik01-000?&logo=GitHub" alt="github.com/nubovik01"></a>
+<a href="https://discord.com/users/454314234830913557"><img src="https://img.shields.io/badge/-@nubovik-000?&logo=Discord" alt="https://discord.com/users/454314234830913557"></a>
+<a href="mailto:nubovik01@gmail.com"><img src="https://img.shields.io/badge/-nubovik01@gmail.com-000?&logo=Gmail"></a>
+
 <div>
   <img src="https://lanyard.cnrad.dev/api/454314234830913557?theme=dark&bg=36393f">
 </div>
