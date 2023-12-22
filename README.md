@@ -6,6 +6,9 @@
 <br>
 <a href="https://www.youtube.com/watch?v=Azc7A9iKPYk"><img src="https://user-images.githubusercontent.com/49571184/176561273-1e36df3c-8add-455f-b827-5f24e1fa0205.png" alt="VERY HALAL"></a>
 
+### Использую, использовал либо частично знаю
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,py,html,css,postgres,php,heroku,instagram,twitter,discord,bots,figma,vscode,github,grafana,vercel,md,cloudflare&perline=10)](https://skillicons.dev)
+
 ### ссылки
 
 <a href="https://t.me/qwkrtezzz"><img src="https://img.shields.io/badge/-@qwkrtezzz-000?&logo=Telegram" alt="t.me/qwkrtezzz"></a>
