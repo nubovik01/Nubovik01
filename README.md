@@ -29,8 +29,8 @@
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=nubovik01&theme=github)
 
 <div>
-  <img height="169em" width="383em" src="https://github-readme-stats.vercel.app/api?username=nubovik01&count_private=true&show_icons=true&theme=github_dark"/>
-  <img height="169em" width="344em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nubovik01&langs_count=6&layout=compact&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nubovik01&count_private=true&show_icons=true&theme=github_dark"/>
+  <img height="200em" width="355em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nubovik01&langs_count=6&layout=compact&theme=github_dark"/>
 </div>
 
 ### трофеи профиля
