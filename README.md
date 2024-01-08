@@ -1,4 +1,6 @@
 <img src="https://cdn.discordapp.com/attachments/754717585534353519/953779377756323900/Nikita.png">
+<a href="#"><img src="https://skillicons.dev/icons?i=js,nodejs,py,html,css,postgres,heroku,bots,figma,vscode,grafana,vercel,md,cloudflare&perline=7" alt="My skils"</a>
+<br>
 <a href="https://wakatime.com/@10f17f85-6757-46ea-9ddb-7d70cabcfd45"><img src="https://wakatime.com/badge/user/10f17f85-6757-46ea-9ddb-7d70cabcfd45.svg" alt="Total time coded since Apr 20 2021"/></a>
 <a href="https://github.com/nubovik01"><img src="https://komarev.com/ghpvc/?username=nubovik01&color=red" alt="Количество посещений этого GitHub профиля"></img></a>
 <br>
@@ -8,9 +10,6 @@
 <a href="#"><img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white" alt="nVIDIA"></a>
 <br>
 <a href="https://www.youtube.com/watch?v=Azc7A9iKPYk"><img src="https://user-images.githubusercontent.com/49571184/176561273-1e36df3c-8add-455f-b827-5f24e1fa0205.png" alt="VERY HALAL"></a>
-
-### Использую, использовал либо частично знаю
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,py,html,css,postgres,php,heroku,bots,figma,vscode,grafana,vercel,md,cloudflare&perline=8)](https://skillicons.dev)
 
 ### ссылки
 
