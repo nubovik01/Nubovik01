@@ -4,6 +4,7 @@
 <br>
 <a href="https://reddit.com/user/nubovik01"><img src="https://img.shields.io/reddit/user-karma/combined/nubovik01?color=5865F2&label=reddit%20karma%20u%2Fnubovik01" alt="Карма пользователя Reddit u/nubovik01"></a>
 <br>
+<a href="#"><img src="https://img.shields.io/badge/macOS-FCC624?style=for-the-badge&logo=macos&logoColor=black&color=white" alt="macOS"></a>
 <a href="#"><img src="https://img.shields.io/badge/Windows-FCC624?style=for-the-badge&logo=windows&logoColor=white&color=blue" alt="Windows"></a>
 <a href="#"><img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white" alt="nVIDIA"></a>
 <br>
